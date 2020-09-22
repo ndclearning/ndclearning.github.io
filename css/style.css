@@ -728,7 +728,7 @@ select.form-control.has-value{
     }
 
     .menu li a:hover,.menu li:hover>a {
-        background: #1A2C79;
+        background: #444444;
         color: #fff;
     }
 
